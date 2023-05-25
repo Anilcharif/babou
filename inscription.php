@@ -23,7 +23,7 @@
     <main>
         <h1>Cree monprofil</h1>
         <form method="post"> 
-            <label>Civilite*
+            <label>Civilite
                 <select name="Civilite" id="Civilite">
                     <option value="Homme">Homme</option>
                     <option value="Femme">Femme</option>

@@ -32,7 +32,7 @@ button, #ex{
 /* header */
 
 header{
-    background-image: linear-gradient( to bottom,#F56B74,#EE4546, #E66AA2);
+    background-image: linear-gradient( to bottom,#960af3,#fc0f0f, #5f022c);
     display: flex;
     justify-content: space-between;
     align-items: center;
